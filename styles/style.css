@@ -147,11 +147,11 @@ address {
   flex-direction: row;
   gap: 25px;
   margin-bottom: 31px;
+  flex-wrap: wrap;
 }
 .lots_card-list-item {
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
 }
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
